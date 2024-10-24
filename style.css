@@ -16,7 +16,10 @@ body {
 }
 
 /* Container for the logo */
-
+.imag {
+    text-align: center;
+    margin-bottom: 20px;
+}
 
 /* Main login container styling */
 .login-container {
