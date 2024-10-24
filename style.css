@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
-    
+
 }
 
 body {
@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f9;
+    background-image: linear-gradient(#ffead1, #b9914e);
 }
 
 /* Container for the logo */
@@ -80,4 +80,3 @@ button {
     cursor: pointer;
     transition: background-color 0.3s;
 }
-
